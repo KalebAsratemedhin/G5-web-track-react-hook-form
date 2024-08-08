@@ -12,4 +12,9 @@ npm install
 npm run dev
 ```
 
-## 
+## Demo
+![alt text](<Screenshot from 2024-08-08 16-08-33.png>)
+![alt text](<Screenshot from 2024-08-08 16-08-41.png>)
+![alt text](<Screenshot from 2024-08-08 16-09-15.png>)
+![alt text](<Screenshot from 2024-08-08 16-09-29.png>)
+![alt text](<Screenshot from 2024-08-08 16-09-35.png>)
